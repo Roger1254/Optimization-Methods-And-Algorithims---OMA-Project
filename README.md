@@ -18,9 +18,9 @@ The genetic algorithm pairs chromosomes of our population, which will be the par
 
 ## Group members:
 * Martina Alutto
-*Michele Da Re
-*Claudio Del Sole
-*Fulvio Di Stefano
-*Federico Paolucci
-*Roberta Raineri
-*Angelo Russi
+* Michele Da Re
+* Claudio Del Sole
+* Fulvio Di Stefano
+* Federico Paolucci
+* Roberta Raineri
+* Angelo Russi
